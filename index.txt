@@ -3,3 +3,4 @@ this is the second commit
 this is third commit
 this is fourth commit
 this is git_user_2
+this is git_user_2 second commit
