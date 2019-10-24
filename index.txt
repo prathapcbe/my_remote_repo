@@ -2,5 +2,10 @@ Hi welcome
 this is the second commit
 this is third commit
 this is fourth commit
+<<<<<<< HEAD
 this is git_user_2
 this is git_user_2 second commit
+=======
+this is fifth commit
+this is git_user_2
+>>>>>>> ed8b5c267c240ef0563db8d299ba4f2122b0d8a2
